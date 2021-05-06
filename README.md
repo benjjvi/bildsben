@@ -8,4 +8,6 @@
 
 💬 [Ask me anything](https://bildsben.tech/contact)
 
+Stole this readme from [Siddhartt](https://github.com/Siddhartt)
+
 ![Profile views](https://gpvc.arturio.dev/bildsben)
