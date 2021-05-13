@@ -4,7 +4,7 @@
 * Natural love for Sloths 🦥
 * Currently learning HTML, JS, CSS and C#!
 * Developer of [some Discord bots that you can view on my site](https://bildsben.tech).
-* Owner of [BB Studios]).
+* Owner of [BB Studios](https://discord.gg/deCs24FsMA).
 
 💬 [Ask me anything](https://bildsben.tech/contact)
 
