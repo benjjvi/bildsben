@@ -1,9 +1,15 @@
-# Hey, I'm Ben!
-* 16 Years old
-* From Wales :wales:
+# Hello, I'm Ben!
+* 16 years old.
+* From Wales!
 * Stupid, half finished projects everywhere...
 
-💬 [Visit my website](https://bildsben.com/)
+💬 [Visit my website!](https://bildsben.com/)
 
+---
 
-![](https://komarev.com/ghpvc/?username=bildsben)
+# Shwmae, Ben ydw i!
+* 16 oed.
+* O Gymru!
+* Dwp, hanner orffen prosiectau mhobman...
+
+💬 [Ewch i fy ngwefan!](https://bildsben.com/)
