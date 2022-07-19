@@ -1,1 +1,9 @@
-![](https://metrics.lecoq.io/bildsben?template=terminal&languages=1&isocalendar=1&lines=1&isocalendar.duration=full-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon)
+# Hey, I'm Ben!
+* 16 Years old
+* From Wales :wales:
+* Stupid, half finished projects everywhere...
+
+💬 [Visit my website](https://bildsben.com/)
+
+
+![](https://komarev.com/ghpvc/?username=bildsben)
